@@ -1,0 +1,21 @@
+[
+  {
+    "op": "replace",
+    "path": "/builder",
+    "value": "/items/buildscripts/IHCbuildweapon.lua"
+  },
+  {
+    "op": "remove",
+    "path": "/builderConfig/0/palette"
+  },
+  {
+    "op": "add",
+    "path": "/builderConfig/0/palette1",
+    "value": "/items/active/weapons/colors/ranged1.weaponcolors"
+  },
+  {
+    "op": "add",
+    "path": "/builderConfig/0/palette2",
+    "value": "/items/active/weapons/colors/ranged2.weaponcolors"
+  }
+]
