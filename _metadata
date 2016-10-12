@@ -1,0 +1,13 @@
+{
+  "author" : "isaac as THE HONEY BADGER",
+  "description" : "[h1]Adds additional color combinations to randomly generated weapons.[/h1]
+Does not add any new colors, just new combinations of existing colors.
+This can be used as a tool for easily adding new color options to generated weapons, a samnple patch and guide will be published to the forums.
+
+[url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]
+Find the server version on [url=https://github.com/IsaacHart/sbmod-colarm]git.[/url]",
+  "friendlyName" : "Colorful Armory Tweaks (Core Tool)",
+  "link" : "community.playstarbound.com/threads/124193/",
+  "name" : "COLARM.IHC",
+  "version" : "0.1"
+}
